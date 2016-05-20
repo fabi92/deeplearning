@@ -1,0 +1,2 @@
+img1 : First 3 Cifar images And Penalty of 1.2
+img2 : First 15 Cifar imags And Penalty of 1.5 
